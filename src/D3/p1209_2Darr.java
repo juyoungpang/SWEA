@@ -1,4 +1,4 @@
-package D2;
+package D3;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
