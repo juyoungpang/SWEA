@@ -1,3 +1,5 @@
+package D3;
+
 import java.util.Scanner;
 
 public class p7963_greedy {

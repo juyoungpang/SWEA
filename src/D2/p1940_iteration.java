@@ -1,3 +1,5 @@
+package D2;
+
 import java.util.Scanner;
 
 public class p1940_iteration {
@@ -16,7 +18,7 @@ public class p1940_iteration {
 				int amnt = 0;
 				if(cmd!=0) amnt = sc.nextInt();
 
-				if (cmd == 1) { // 가속
+				if (cmd == 1) { // 媛��냽
 					curSpeed += amnt;
 				} else {
 					if(curSpeed<amnt) curSpeed=0;

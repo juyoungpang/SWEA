@@ -1,3 +1,5 @@
+package D2;
+
 import java.util.Scanner;
 
 public class p1954_switch {
